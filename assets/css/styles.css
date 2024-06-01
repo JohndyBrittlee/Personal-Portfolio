@@ -193,6 +193,7 @@ nav{
 .social_icons{
     display: flex;
     margin-top: 5em;
+    margin-bottom: 15rem;
     gap: 50px;
 }
 .icon{
